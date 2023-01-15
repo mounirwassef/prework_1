@@ -40,3 +40,12 @@
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
   }
+
+
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 25px
+  };
